@@ -12,3 +12,5 @@ function escolheClasse(classe){
 
 let personagem1 = escolheClasse("guerreiro")
 console.log(personagem1)
+
+console.log("Alteração")
