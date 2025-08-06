@@ -4,6 +4,8 @@ class Personagem{
     }
 }
 
+/* Comentario */
+
 function escolheClasse(classe){
     if(classe = "guerreiro"){
         return new Personagem(classe)
